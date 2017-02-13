@@ -87,6 +87,7 @@ input[type=text] {
     -webkit-transition: width,background-color 0.4s ease-in-out;
     transition: width 0.4s ease-in-out;
     width: 10%;
+    outline: none;
 }
 
 input[type=text]:focus{
